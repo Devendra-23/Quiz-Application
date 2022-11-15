@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizML name="Premier League!">
+    <Question type="multichoice" points="5">
+        <QuestionText answer="3">In 1992-93 Which club finished third in the inaugural Premier League season with a negative goal difference?</QuestionText>
+        <Answer name="1">Aston Villa</Answer>
+        <Answer name="2">Blackburn</Answer>
+        <Answer name="3">Norwich</Answer>
+        <Answer name="4">QPR</Answer>
+    </Question>
+    <Question type="tf" points="3">
+        <QuestionText answer="f">Was Leicester City relegated in 2000-01</QuestionText>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="2">In 2002-03 How many consecutive matches did Sunderland lose at the end of the season?</QuestionText>
+        <Answer name="1">10</Answer>
+        <Answer name="2">15</Answer>
+        <Answer name="3">20</Answer>
+        <Answer name="4">25</Answer>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="2">In 2003-04. Two clubs avoided defeat to Arsenal in the Invincibles season. Manchester United and …</QuestionText>
+        <Answer name="1">Chelsea</Answer>
+        <Answer name="2">Portsmouth</Answer>
+        <Answer name="3">Tottenham</Answer>
+        <Answer name="4">Newcastle</Answer>
+    </Question>
+
+</QuizML>

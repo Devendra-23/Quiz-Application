@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizML name="Glory Glory Man United!">
+    <Question type="multichoice" points="5">
+        <QuestionText answer="1">Which player is affectionately known as 'The King' to Manchester United fans?</QuestionText>
+        <Answer name="1">Eric Cantona</Answer>
+        <Answer name="2">Marcus Rashford</Answer>
+        <Answer name="3">Zlatan Ibrahimovic</Answer>
+        <Answer name="4">Wayne Rooney</Answer>
+    </Question>
+    <Question type="tf" points="3">
+        <QuestionText answer="f"> David Beckham throughout his career wore the number 7</QuestionText>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="2">The players who progressed to the Manchester United first-team under Matt Busby were known as what?</QuestionText>
+        <Answer name="1">Busby Boys</Answer>
+        <Answer name="2">The Busby Babes</Answer>
+        <Answer name="3">Busby Mates</Answer>
+        <Answer name="4">Busby Mens</Answer>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="2">Which player holds the distinction of being Manchester United's longest-serving captain?</QuestionText>
+        <Answer name="1">Roy Keane</Answer>
+        <Answer name="2">Bryan Robson</Answer>
+        <Answer name="3">Mark Hughes</Answer>
+        <Answer name="4">Ryan Giggs</Answer>
+    </Question>
+
+</QuizML>
